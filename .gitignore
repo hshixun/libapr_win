@@ -45,6 +45,8 @@ apr-util/crypto/Release
 apr-util/dbd/Release
 apr-util/dbm/Release
 apr-util/ldap/Release
+apr/build/x64
+apr/x64
 
 
 
