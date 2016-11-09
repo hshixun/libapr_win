@@ -2,6 +2,7 @@ apr/apr.VC.db
 apr/apr.VC.VC.opendb
 apr/Debug
 apr/LibR
+apr/build/Debug
 apr/build/LibR
 apr/build/Release
 apr/Release
@@ -9,8 +10,23 @@ apr/build/prelibaprapp.log
 apr/build/preaprapp.log
 apr/vc140.idb
 apr/.vs
+apr/include/apr.h
+apr/include/apr_escape_test_char.h
 apr-util/.vs
 apr-util/aprutil.VC.VC.opendb
 apr-util/aprutil.VC.db
+apr-util/Debug
+apr-util/Release
+apr-util/xml/expat/lib/LibD
+apr-util/xml/expat/lib/LibR
+apr-util/include/apr_ldap.h
+apr-util/include/apu.h
+apr-util/include/apu_want.h
+apr-util/include/private/apu_config.h
+apr-util/include/private/apu_select_dbm.h
+apr-iconv/Debug
+apr-iconv/Release
+apr-iconv/ccs/libapriconv_ccs_modules.log
+apr-iconv/ces/libapriconv_ces_modules.log
 
 
