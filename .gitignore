@@ -28,5 +28,24 @@ apr-iconv/Debug
 apr-iconv/Release
 apr-iconv/ccs/libapriconv_ccs_modules.log
 apr-iconv/ces/libapriconv_ces_modules.log
+apr-iconv/LibD
+apr-iconv/build/preapriconv.log
+apr-util/LibD
+apr-util/build/preaprutil.log
+apr-util/build/preaprutil.vcxproj.user
+apr-util/crypto/Debug
+apr-util/dbd/Debug
+apr/LibD
+apr/build/LibD
+apr-util/dbm/Debug
+apr-util/ldap/Debug
+apr-iconv/LibR
+apr-util/LibR
+apr-util/crypto/Release
+apr-util/dbd/Release
+apr-util/dbm/Release
+apr-util/ldap/Release
+
+
 
 
